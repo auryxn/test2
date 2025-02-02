@@ -1,0 +1,147 @@
+
+body{
+  width: 923px;
+height: 600px;
+gap: 0px;
+opacity: 0px;
+background-color:  #141D26;
+position: relative;
+}
+
+.frame1{
+  left: 45%;
+  top: 40%;
+  position: absolute;
+  width: 601px;
+  height: 228px;
+  gap: 15px;
+  border-radius: 10px 10px 10px 10px;
+  opacity: 0px;
+  background-color:  #243447;
+  box-shadow: 0px 15px 60px 0px #34517426;
+
+}
+
+.frame2{
+  width: 539px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+margin-top: 5%;
+margin-left: auto;
+  margin-right: auto;
+  right: auto;
+  display:block;
+}
+
+.frame3{
+  display: block;
+  float: left;
+  width: 167px;
+height: 50px;
+gap: 22px;
+opacity: 0px;
+
+}
+
+.avatar{
+  float: left;
+  padding: auto;
+  width: 50px;
+height: 50px;
+gap: 0px;
+}
+
+
+.nickname{
+  margin: 0;
+  float: right;
+  width: 95px;
+height: 44px;
+gap: 1px;
+}
+
+.nickname h4{
+  color: white;
+  font-family: Source Sans Pro Bold;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 22.63px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.nickname h5{
+  color: #FFFFFF99;
+  font-family: Source Sans Pro ;
+  font-size: 16px;
+font-weight: 400;
+line-height: 20.11px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+
+.nickname h4, h5{
+  margin: 0;
+}
+
+.twitter{
+  float: right;
+  width: 30px;
+height: 30px;
+gap: 0px;
+padding-top: 2%;
+}
+
+.twit{
+  width: 539px;
+height: 52px;
+gap: 0px;
+opacity: 0px;
+color: white;
+margin-left: 31px;
+}
+
+.twit p {
+  font-family: Source Sans Pro;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.other{
+  width: 239px;
+height: 26px;
+gap: 20px;
+opacity: 0px;
+display: flex;
+margin-left: 31px;
+margin-top: 16px;
+justify-content: space-between;
+}
+
+.frame4{
+  display: flex;
+}
+
+.other p{
+  margin: 0;
+  color: gray;
+  font-family: Source Sans Pro Regular;
+font-size: 16px;
+font-weight: 700;
+line-height: 26px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+
+.frame4 p{
+  padding-left: 20px;
+}
